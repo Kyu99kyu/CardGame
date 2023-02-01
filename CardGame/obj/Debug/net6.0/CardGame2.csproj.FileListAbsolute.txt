@@ -1,0 +1,15 @@
+C:\chatGPT\CardGame2\bin\Debug\net6.0\CardGame2.exe
+C:\chatGPT\CardGame2\bin\Debug\net6.0\CardGame2.deps.json
+C:\chatGPT\CardGame2\bin\Debug\net6.0\CardGame2.runtimeconfig.json
+C:\chatGPT\CardGame2\bin\Debug\net6.0\CardGame2.dll
+C:\chatGPT\CardGame2\bin\Debug\net6.0\CardGame2.pdb
+C:\chatGPT\CardGame2\obj\Debug\net6.0\CardGame2.csproj.AssemblyReference.cache
+C:\chatGPT\CardGame2\obj\Debug\net6.0\CardGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\chatGPT\CardGame2\obj\Debug\net6.0\CardGame2.AssemblyInfoInputs.cache
+C:\chatGPT\CardGame2\obj\Debug\net6.0\CardGame2.AssemblyInfo.cs
+C:\chatGPT\CardGame2\obj\Debug\net6.0\CardGame2.csproj.CoreCompileInputs.cache
+C:\chatGPT\CardGame2\obj\Debug\net6.0\CardGame2.dll
+C:\chatGPT\CardGame2\obj\Debug\net6.0\refint\CardGame2.dll
+C:\chatGPT\CardGame2\obj\Debug\net6.0\CardGame2.pdb
+C:\chatGPT\CardGame2\obj\Debug\net6.0\CardGame2.genruntimeconfig.cache
+C:\chatGPT\CardGame2\obj\Debug\net6.0\ref\CardGame2.dll
